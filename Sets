@@ -1,0 +1,2 @@
+// Create a Set
+const letters = new Set(["a","b","c"]);
